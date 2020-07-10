@@ -4,4 +4,8 @@
  To start the tool
  
  
- git clone 
+ git clone https://github.com/osamaelkassaby1/scanports.git
+
+cd scanports
+
+python3 scanports.py
